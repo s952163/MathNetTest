@@ -1,0 +1,6 @@
+source https://www.nuget.org/api/v2
+redirects: on
+framework: >= net46
+nuget FSharp.Core
+nuget MathNet.Numerics
+nuget MathNet.Numerics.Fsharp
